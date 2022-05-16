@@ -12,3 +12,4 @@
  arn:aws:s3:::my-alx-bucket
 http://my-alx-bucket.s3-website-us-west-2.amazonaws.com/
 
+<bucket-name>.s3-website-region.amazonaws.com
